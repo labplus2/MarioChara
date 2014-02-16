@@ -448,6 +448,7 @@
 				BB5E872918AFEC1F00D9FD6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BB5E872A18AFEC1F00D9FD6E /* Build configuration list for PBXNativeTarget "MarioCharaTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +457,7 @@
 				BB5E872C18AFEC1F00D9FD6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
